@@ -1,0 +1,12 @@
+MISI NAFAS AJAIB — PROTOTAIP WEBAR INTERAKTIF
+
+1. Muat naik index.html dan watak.jpg ke folder sama di GitHub Pages atau hosting HTTPS.
+2. Buka alamat HTTPS pada telefon/tablet.
+3. Tekan Mula Belajar, teroka organ, cuba animasi, lihat model Sketchfab dan jawab kuiz.
+4. Tekan Aktifkan Kamera. AR berjangkar pada meja menggunakan WebXR immersive-ar + hit-test memerlukan peranti dan pelayar yang menyokongnya (kebiasaannya Android dengan ARCore dan Chrome).
+5. Pada iOS Safari atau pelayar tanpa WebXR, mod kamera ialah paparan 3D di atas video sahaja — BUKAN AR penjejakan permukaan sebenar.
+6. Internet diperlukan untuk modul Three.js dan model Sketchfab. Suara menggunakan text-to-speech pada peranti; kualiti bahasa Melayu bergantung kepada suara yang tersedia.
+7. Model peparu dalam mod AR ialah ilustrasi 3D prosedural, bukan fail Sketchfab. Model Sketchfab muncul dalam paparan penerokaan berasingan.
+8. Untuk watak 3D sebenar, animasi mulut, atau AR iOS berjangkar, perlu aset dan pembangunan tambahan.
+9. Sumber model terbenam: Realistic Human Lungs by neshallads, Sketchfab (pautan dan kredit dipaparkan dalam aplikasi). Semak lesen sebelum memuat turun atau mengubah suai aset.
+10. Prototip belum diuji pada telefon fizikal. Semak keserasian dan kandungan dengan pensyarah sebelum dihantar.
